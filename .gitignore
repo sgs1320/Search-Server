@@ -1,0 +1,6 @@
+.vscode
+*.exe
+.git
+.idea
+cmake-build-debug
+*.txt
