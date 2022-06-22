@@ -16,7 +16,7 @@ and with -john
 
 Вывод программы:
 ```
-ACTUAL by default:
+ACTUAL:
 { document_id = 2, relevance = 0.866434, rating = 1 }
 { document_id = 1, relevance = 0.173287, rating = 1 }
 { document_id = 3, relevance = 0.173287, rating = 1 }
@@ -26,7 +26,7 @@ BANNED:
 
 
 ## Инструкция по развертыванию
-* version standard С++17
+* Version Standard С++17
 * Thread Building Blocks (Intel TBB)
 
 ## Планы по доработке проекта
